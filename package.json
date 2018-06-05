@@ -1,0 +1,23 @@
+{
+  "name": "jesttest",
+  "version": "1.0.0",
+  "description": "Testing with Facebook's jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodsanshare/jesttest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodsanshare/jesttest/issues"
+  },
+  "homepage": "https://github.com/rodsanshare/jesttest#readme",
+  "devDependencies": {
+    "jest": "^23.1.0"
+  }
+}
